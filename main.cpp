@@ -4,6 +4,7 @@ int ad (int x ,int y)
 {
 return (x +y);
 }
+//new two
 //new one
 //updated for mc
 int main() {
