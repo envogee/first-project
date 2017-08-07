@@ -5,6 +5,7 @@ int ad (int x ,int y)
 return (x +y);
 }
 //new two
+//ji
 //new one
 //updated for mc
 int main() {
