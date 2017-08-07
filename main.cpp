@@ -2,6 +2,7 @@
 using namespace std;
 int ad (int x ,int y)
 {
+    int g;
 return (x +y);
 }
 //new two
