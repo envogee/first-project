@@ -6,6 +6,7 @@ return (x +y);
 }
 //new two
 //ji
+//new version
 //new one
 //updated for mc
 int main() {
