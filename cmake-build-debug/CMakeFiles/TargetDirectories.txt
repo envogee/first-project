@@ -1,0 +1,3 @@
+/home/cornelius/CLionProjects/machinegun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cornelius/CLionProjects/machinegun/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cornelius/CLionProjects/machinegun/cmake-build-debug/CMakeFiles/machinegun.dir
