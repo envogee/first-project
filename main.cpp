@@ -4,7 +4,7 @@ int ad (int x ,int y)
 {
 return (x +y);
 }
-//updated
+//updated for mc
 int main() {
     int a=80;
     int b=90;
