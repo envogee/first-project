@@ -4,7 +4,7 @@ int ad (int x ,int y)
 {
 return (x +y);
 }
-//version one g3
+//updated
 int main() {
     int a=80;
     int b=90;
